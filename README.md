@@ -1,4 +1,4 @@
-# KNN_COVID19_Behaviour_Analysis
+# COVID19 Behaviour Analysis: KNN
 
 Study a data set collected by the Institute of Global Health Innovation Imperial College London. Perform KNN to find the best model.
 
